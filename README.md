@@ -49,6 +49,7 @@ We are continuously looking to improve the system. Future updates will focus on:
 *   Implementing user feedback loops to continuously refine and improve recommendation accuracy[cite: 3].
 *   Enabling voice-based interactions via WhatsApp voice notes[cite: 3].
 
+![Project Demo](Overflow (1).png)
 ---
 <div align="center">
   <i>Demonstrating how AI and automation can enhance user experiences through intelligent, data-driven solutions.</i>[cite: 3]
